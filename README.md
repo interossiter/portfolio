@@ -10,3 +10,5 @@ This includes proprietary relational database designs owned by former employers.
 I will add mostly bioinformatic scripts that perform functions I've found useful.
 
 Most are pretty simple and focused on a single task.
+
+There are some simple bash scripts that are useful for bioinformatics.
