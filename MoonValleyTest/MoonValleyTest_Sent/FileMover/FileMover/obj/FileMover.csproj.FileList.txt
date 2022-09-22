@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\FileMover.exe
+bin\Debug\FileMover.pdb
+obj\Debug\FileMover.exe
+obj\Debug\FileMover.pdb
+bin\Release\FileMover.exe
+bin\Release\FileMover.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\FileMover.exe
+obj\Release\FileMover.pdb

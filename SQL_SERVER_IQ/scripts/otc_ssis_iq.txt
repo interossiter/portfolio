@@ -1,0 +1,15 @@
+SERVER localhost 
+DATABASE master 
+SCRIPT otc_ssis_iq.sql 
+FolderPath	PackageName	PackagePath	packageFormat	packageType	vermajor	verminor	verbuild	ownername	PackageId
+----------	-----------	-----------	-------------	-----------	--------	--------	--------	---------	---------
+\Data Collector	PerfCountersCollect	\Data Collector\PerfCountersCollect	1	5	1	0	0	sa	C2EAABC1-5BF3-4127-BEB3-26E94D026E7D
+\Data Collector	PerfCountersUpload	\Data Collector\PerfCountersUpload	1	5	1	0	0	sa	08D854CB-0D45-4E96-92C6-227A5DCD7066
+\Data Collector	QueryActivityCollect	\Data Collector\QueryActivityCollect	1	5	1	0	0	sa	0B68FC9D-23DC-48F3-A937-90A0A8943D0E
+\Data Collector	QueryActivityUpload	\Data Collector\QueryActivityUpload	1	5	1	0	0	sa	833DB628-8E19-47A3-92C5-FB1779B52E76
+\Data Collector	SqlTraceCollect	\Data Collector\SqlTraceCollect	1	5	1	0	0	sa	0E149FC9-1046-4DE6-98BF-4B22ED6F6C42
+\Data Collector	SqlTraceUpload	\Data Collector\SqlTraceUpload	1	5	1	0	0	sa	F389A8E6-5A17-4056-ABFD-C8B823F2092E
+\Data Collector	TSQLQueryCollect	\Data Collector\TSQLQueryCollect	1	5	1	0	0	sa	292B1476-0F46-4490-A9B7-6DB724DE3C0B
+\Data Collector	TSQLQueryUpload	\Data Collector\TSQLQueryUpload	1	5	1	0	0	sa	6EB73801-39CF-489C-B682-497350C939F0
+
+(8 rows affected)

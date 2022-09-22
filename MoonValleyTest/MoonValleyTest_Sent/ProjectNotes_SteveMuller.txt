@@ -1,0 +1,20 @@
+Project Notes:
+- inital development 10 hours working time
+- clean-up, testing, comment review - 3 hours
+
+I've included a Data directory that can be placed on the C drive for testing.  Othewise edit source and destination arguments in Project\Properties\Configuration Properties\Debugging\Command Arguments.
+
+There's some demo related stuff like sleep commands to simulate the process taking at least a couple seconds.
+
+I took the log file class from existing code I had on hand - it's very basic text file dump mechanism.
+
+
+If I was really making this for production use I'd want to write at least some of the error handling to application log, in particular cases where bad path parameters were supplied.
+
+Thanks for your review!
+Steve Muller
+x1143
+
+
+
+

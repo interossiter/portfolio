@@ -1,0 +1,4 @@
+SERVER localhost 
+DATABASE master 
+SCRIPT otc_mssql_iq_sp_configure.sql 
+Sqlcmd: 'otc_mssql_iq_sp_configure.sql': Invalid filename.
