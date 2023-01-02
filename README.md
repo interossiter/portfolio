@@ -23,3 +23,5 @@ Useful scripts for generating data that can server as installation qualification
 <h3>bioinformatics</h3>
 Collection of mostly python files that perform data transformations using common bioinformatics tools.
 
+<h3>physics</h3>
+Collection of mostly python files that perform physics calculations and modeling.
