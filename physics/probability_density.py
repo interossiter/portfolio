@@ -25,5 +25,4 @@ def test_probability_density():
     # The probability density should be a constant
     assert np.allclose(density, 1.0, atol=1e-6)
 
-
 test_probability_density()
